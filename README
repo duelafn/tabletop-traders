@@ -1,0 +1,37 @@
+
+================
+tabletop-traders
+================
+
+Tabletop Traders is based on "The Settlers of Catan" by Klaus Teuber.
+
+Tabletop Traders was inspired by Pioneers (http://pio.sourceforge.net/),
+but is an independent implementation designed for table-top (surface)
+computers. It may be usable on some larger touchpads but is unlkely to ever
+be playable on phones or desktop/laptop computers. Tabletop Traders is
+built on the kivy framework (https://github.com/kivy/kivy).
+
+
+
+Status
+======
+
+The game is currently in development. See the "ROADMAP.org" file for a
+detailed list of current and planned features.
+
+
+
+License
+=======
+
+This program is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free
+Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
+more details.
+
+You should have received a copy of the GNU General Public License along
+with this program. If not, see http://www.gnu.org/licenses/.

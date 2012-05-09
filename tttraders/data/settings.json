@@ -1,0 +1,9 @@
+[
+    { "type": "options",
+      "title": "Theme",
+      "desc": "Board and piece theme",
+      "section": "tttraders",
+      "key": "theme",
+      "options": ["default"]
+    }
+]

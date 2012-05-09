@@ -1,0 +1,52 @@
+
+Roadmap for Tabletop Traders
+============================
+
+* Current Features
+
+  - map: fixed/hard-coded map
+
+
+* Version 0.1
+
+  - map: ports
+  - map: random terrain / chits
+  - map,user tile: roll dice & highlight numbers
+
+* Version 0.2
+
+  - user tile: draggable user tiles: token pool
+  - map,user tile: place tokens - roads, settlements, cities
+
+* Version 0.3
+
+  - tokens: robber
+  - user tile: production hint / reminder
+
+* Version 0.4
+
+  - config: load map from pioneers .game files
+  - tokens: boats, bridges, city walls
+  - tokens: pirate
+  - map: nosetup spots
+  - map: gold hexes
+
+* Version 0.5
+
+  - map: random setup
+  - map: roaming pirate
+  - map: discovery / super discovery
+
+* Version 0.6
+
+  - config: fully implement pioneers .game files
+  - map,user tile: longest road, largest army
+  - map,user tile: crossing bonus
+  - map,user tile: island bonus
+
+* Version <= 1.0
+
+  - config: pre-sets (rich/struggle, stringy lands, islands, ...)
+  - config: auto-suggest size based on num players & pre-sets
+  - config: profiles / statistics (sqlite)
+  - config: force number diversity (ensure 2-6,8-12 present in initial map)

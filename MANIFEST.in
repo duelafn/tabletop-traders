@@ -1,0 +1,4 @@
+
+include ChangeLog LICENSE Makefile
+recursive-include tttraders  *.kv *.png
+recursive-include t *.t

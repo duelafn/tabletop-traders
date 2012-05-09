@@ -1,0 +1,19 @@
+#:kivy 1.0
+
+<NewGame>:
+    size_hint: (1, 1)
+    settings: _setting
+
+    BoxLayout:
+        size_hint: (.5, .8)
+        orientation: 'vertical'
+        spacing: 15
+
+        Settings:
+            id: _setting
+            on_close: root.app.start_game( root.config )
+
+        Button:
+            text: "Start Game"
+            size_hint: (.5, .2)
+            on_press: root.app.start_game( root.config )
